@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(244, 248, 248);
+}
+
+#lastGetting{
+    background-color: rgb(31, 235, 109);
+    width: 40%;
+    float:left;
+    height: 550px;
+}
+
+#goBackSite{
+    background-color: rgb(34, 180, 90);
+    width: 60%;
+    float: right;
+    height: 550px;
+}
+#clear {
+    clear: both;
+}
+
+.footerSite>p{
+}
+
+#footerSite {
+    background: #00BFFF;
+    width: 100%;
+    height: 240px;
+}
+
+.answerBlock{
+    text-align: center;
+    float:left;
+    width: 20%;
+}
+.deltaBlock{
+    text-align: center;
+    float:left;
+    width: 100%;
+}
